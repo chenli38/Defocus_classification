@@ -49,6 +49,10 @@ pytorch, torchvision, matplotlib, numpy, random, skimage, scipy
  - generate confusion matrix for the test dataloader
  - generate graphical image predictions (color borders)
 
+**model/model.py**
+  - define neural network model structures
+
+  
 ## Contact
 cli38@ncsu.edu
 
