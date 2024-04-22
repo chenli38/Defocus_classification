@@ -4,7 +4,7 @@ Source code for paper (https://doi.org/10.1364/BOE.427099)
 A example dataset is provided for data organization purposes (https://doi.org/10.6084/m9.figshare.18515108)  
 ## Autofocus pipeline
 <!--![image](/images/Picture1.png "Running Autofocus")   -->
-<img src="images/Picture1.png" width="800" height="1000">  
+<img src="images/Picture1.png" width="800" height="880">  
 
 ## Required packages
 pytorch, torchvision, matplotlib, numpy, random, skimage, scipy  
