@@ -25,7 +25,7 @@ pytorch, torchvision, matplotlib, numpy, random, skimage, scipy
  - input: image (large or small), model
  - output: network prediction and certainty value
  - a example pretrained model is provided in 'saved_models/selfmade_net_6nm_20000.pt'
- - 
+   
 **measure_img.m**
  - source code for traditional image quality metrics (DCTS,LAPD, TENV et.al.) written in MATLAB
  - input parameters : image, method_name
