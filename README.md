@@ -2,6 +2,8 @@
 a deep learning-based autofocus framework that can estimate the position of the objective-lens focal plane relative to the light-sheet, based on two defocused images.  
 Source code for paper (https://doi.org/10.1364/BOE.427099)  
 A example dataset is provided for data organization purposes (https://doi.org/10.6084/m9.figshare.18515108)  
+## Autofocus pipeline
+![The flow chart of running the pipeline](/images/Picture1.png "Running Autofocus")  
 ## Required packages:
 pytorch, torchvision, matplotlib, numpy, random, skimage,scipy  
 
