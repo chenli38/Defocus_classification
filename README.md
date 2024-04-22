@@ -11,7 +11,7 @@ pytorch, torchvision, matplotlib, numpy, random, skimage, scipy
 
 
 
-## function of scipts
+## Function of scipts
 **train_model.py**: 
  - loading dataset, network model and hyperparameters setting, training
 
